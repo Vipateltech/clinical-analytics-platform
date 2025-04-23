@@ -1,0 +1,1 @@
+"C://Users//thinkpad//Desktop//project//clinical_financial_data.csv"
